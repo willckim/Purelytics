@@ -154,4 +154,6 @@ Beverage, Dairy, Snack, Meat, Grain, Condiment, Supplement, Baby Food, Frozen, B
 
 ## License
 
-MIT
+Proprietary - All Rights Reserved. See [LICENSE](LICENSE) for details.
+
+Unauthorized copying, modification, or distribution of this software is strictly prohibited.
