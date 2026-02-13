@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Expo
+.expo/
+dist/
+web-build/
+*.tsbuildinfo
+
+# Native builds
+android/
+ios/
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+src/config/apiKeys.js
+
+# Keep the example env
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Metro
+.metro-health-check*
+
+# Testing
+coverage/
+__tests__/
+
+# Accidental Windows NUL file
+NUL
+
+# Claude Code session data
+.claude/
